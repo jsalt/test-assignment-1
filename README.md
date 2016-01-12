@@ -96,9 +96,9 @@ Now, it's time to turn in your assignment.  You should generally follow the [ins
 1. Create a directory **in the cloned, forked assignment repository** that is your **username on github**
 1. Navigate to this directory on your computer
 1. Add the following:
-    * Screenshot of github account
-    * Screenshot of Slack session
-    * Screenshot of Atom installed on your computer
+    * Screenshot of [github][] account
+    * Screenshot of [Slack][] session
+    * Screenshot of [Atom][] installed on your computer
     * Screenshot showing that you installed [linter-flake8][]
     * Screenshot of the Anaconda [REPL][] on your computer
     * You mini-tutorial from [Your first set of programs](#your-first-set-of-programs), above, in ipynb format
