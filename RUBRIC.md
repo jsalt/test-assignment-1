@@ -2,8 +2,8 @@
 
 Task                                                                                       | Points
 ----                                                                                       | ----
-Assignment 1 contains directory of files for <user>                                        | 0.5
-Repository contains screenshot of [github][] account                                       | 0.5
+Assignment 1 contains directory of files for <user>                                        | - [ ] 0.5    
+Repository contains screenshot of [github][] account                                       | - [ ] 0.5
 Repository contains screenshot of [Slack][] session                                        | 0.5
 Repository contains screenshot of [Atom][] installed on users computer                     | 0.5
 Repository contains screenshot of screenshot showing that user installed [linter-flake8][] | 0.5
